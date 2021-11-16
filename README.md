@@ -1,2 +1,2 @@
 # discord-bot-template
-template for creating a discord bot
+template for a basic python project
